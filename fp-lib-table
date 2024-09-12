@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OEM")(type "KiCad")(uri "/Users/alex/Documents/Arribada/SeaweedSensor")(options "")(descr ""))
+  (lib (name "oem_ph")(type "KiCad")(uri "${KIPRJMOD}/oem_ph.pretty")(options "")(descr ""))
+)

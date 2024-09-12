@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "atlas_oem")(type "KiCad")(uri "${KIPRJMOD}/atlas_oem.kicad_sym")(options "")(descr ""))
+)
